@@ -5,12 +5,11 @@ layout: post
 tags: [Scam, Scammer, AndrejBrda, WiliClip, SecondAds, Goldtokens, Slovenia, SecondLife]
 categories: [Scammer, AndrejBrda, WilliClip]
 ---
+
+All our allegations are fully backed by evidence. We present links to documents in the present text. No information is given about innocent people or even about his accomplices.
+
+
 Andrej Brda is the real person under the Second Life avatar Wili Clip.
-
-
-
-
-
 
 He is the CEO of Second Ads, one of the most profitable companies of Second Life. He was claiming having monthly revenue of 1,600,000 lindens with expenses of only 157,000 lindens (of course, he changed this data, but we have a scan of the original page):
 
