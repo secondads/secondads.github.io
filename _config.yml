@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://secondads.github.io
+title: secondads
+paginate: 5
